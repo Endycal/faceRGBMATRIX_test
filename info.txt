@@ -1,1 +1,2 @@
 just testing stuff on a 32x64 rgb matrix and git itself..
+also hiiii
